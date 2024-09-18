@@ -1,0 +1,14 @@
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\bin\Debug\net8.0\Practice_Sets03_02.exe
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\bin\Debug\net8.0\Practice_Sets03_02.deps.json
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\bin\Debug\net8.0\Practice_Sets03_02.runtimeconfig.json
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\bin\Debug\net8.0\Practice_Sets03_02.dll
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\bin\Debug\net8.0\Practice_Sets03_02.pdb
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.AssemblyInfoInputs.cache
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.AssemblyInfo.cs
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.csproj.CoreCompileInputs.cache
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.dll
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\refint\Practice_Sets03_02.dll
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.pdb
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\Practice_Sets03_02.genruntimeconfig.cache
+E:\Csharp projects\Practice_Sets03\Practice_Sets03_02\obj\Debug\net8.0\ref\Practice_Sets03_02.dll

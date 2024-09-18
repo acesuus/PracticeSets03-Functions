@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Csharp projects\\Practice_Sets03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD6243B-8423-417A-BEC2-6817E5B0C1E1}|Practice_Sets03_01\\Practice_Sets03_01.csproj|e:\\csharp projects\\practice_sets03\\practice_sets03_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD6243B-8423-417A-BEC2-6817E5B0C1E1}|Practice_Sets03_01\\Practice_Sets03_01.csproj|solutionrelative:practice_sets03_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1517DA-8E91-4DDB-96C4-B13B68EC5D42}|Practice_Sets03_02\\Practice_Sets03_02.csproj|e:\\csharp projects\\practice_sets03\\practice_sets03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1517DA-8E91-4DDB-96C4-B13B68EC5D42}|Practice_Sets03_02\\Practice_Sets03_02.csproj|solutionrelative:practice_sets03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp projects\\Practice_Sets03\\Practice_Sets03_01\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_Sets03_01\\Program.cs",
+              "ToolTip": "E:\\Csharp projects\\Practice_Sets03\\Practice_Sets03_01\\Program.cs*",
+              "RelativeToolTip": "Practice_Sets03_01\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:55:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp projects\\Practice_Sets03\\Practice_Sets03_02\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_Sets03_02\\Program.cs",
+              "ToolTip": "E:\\Csharp projects\\Practice_Sets03\\Practice_Sets03_02\\Program.cs",
+              "RelativeToolTip": "Practice_Sets03_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:55:36.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
