@@ -4,7 +4,7 @@ namespace OOP.PracticeSets03
 {
     class Year
     {
-        static bool IsYear(int year)
+        static bool IsLeapYear(int year)
         {
             if (year % 4 == 0)
             {
